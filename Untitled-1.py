@@ -1,3 +1,3 @@
-print("hello")
-print("hello")
-print("hello")
+print("llo")
+print("o")
+print("no")
